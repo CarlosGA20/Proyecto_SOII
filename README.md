@@ -4,7 +4,7 @@ Dentro del proyecto InfraredBasics-WPF el archivo que pertenece a la materia de 
 
 Dentro del proyecto ColorBasics-WPF el archivo que pertenece a la materia de Sistemas Operativos 2 es MainWindow.xaml.cs.
 
-Dentro de la carpeta KinectTest/Assets/KinectScripts el script KinectManager.cs pertenece a la materia de Sistema Operativos 2
+Dentro de la carpeta KinectTest/Assets/KinectScripts el script KinectManager.cs pertenece a la materia de Sistema Operativos 2.
 
 ## Técnicas de transferencia de datos desde el Kinect
 
